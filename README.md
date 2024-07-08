@@ -3,10 +3,7 @@
 
 ### Hi there 👋, My Name is Siam Islam
 #### Web Devoloper
-![Web Devoloper](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/417436488_700973445499259_6549973816803455119_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG20QsOT4Xwltw8zV7okLwxJJQMrb2GoP0klAytvYag_dzY2dWglKXpGibtLQuoIeobM7bvw-7p6eIYAPPcC6KO&_nc_ohc=iTB3yEOhXggAb58_lW5&_nc_ht=scontent.fdac24-1.fna&oh=00_AfBYVaZRnb6dlUNn_mtUAXMRVgLRginQIl3V5Rfv3Yc76Q&oe=6622B830)
-
 I’m a Front End Web developer
-
 Skills: HTML / CSS
 
 - 🔭 I’m currently working on Home 
