@@ -25,8 +25,6 @@ Skills: HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=md-siam-islam&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/md-siam-islam/contributions?format=svg&private=false)  
-
 ![GitHub metrics](https://metrics.lecoq.io/md-siam-islam)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=md-siam-islam)  
