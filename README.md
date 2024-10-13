@@ -4,7 +4,7 @@
 ### Hi there 👋, My Name is Siam Islam
 #### Web Devoloper
 I’m a Front End Web developer
-Skills: HTML / CSS
+Skills: HTML / CSS/Java Script
 
 - 🔭 I’m currently working on Home 
 - 🌱 I’m currently learning JavaScript 
