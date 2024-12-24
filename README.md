@@ -7,9 +7,9 @@
 - 🔭 I’m currently working on I’m currently a student of Faridpur Polytechnic Institute (Computer Science & Technology) 
 - 🌱 I’m currently learning Next Js (Frontend Web Framework) 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: mdsiamislam663@gmail.com 
-- 😄 Pronouns: Ask me about creating dynamic web apps, frontend trends, or bridging frontend 
-- ⚡ Fun fact: I’m a self-taught developer who started coding as a hobby and turned it into a passion!
+- 📫 mdsiamislam663@gmail.com 
+- 😄 Ask me about creating dynamic web apps, frontend trends, or bridging frontend 
+- ⚡ I’m a self-taught developer who started coding as a hobby and turned it into a passion!
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
