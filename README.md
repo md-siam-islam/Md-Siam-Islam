@@ -1,12 +1,8 @@
 
 ![Frontend Developer](https://hub.asimov.academy/wp-content/uploads/2024/10/hello-world.webp)
 
-  # Hi there 👋 I'm Md Siam Islam
-  ### Frontend Developer
-
-
-
-Skills:  HTML / CSS / REACT / JS 
+  <h1 align="center">Hi there 👋 I'm Md Siam Islam</h1>
+  <h3 align="center">Frontend Developer</h3>
 
 - 🔭 I’m currently working on I’m currently a student of Faridpur Polytechnic Institute (Computer Science & Technology) 
 - 🌱 I’m currently learning Next Js (Frontend Web Framework) 
