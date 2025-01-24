@@ -7,11 +7,18 @@
 - 🔭 I’m currently working on I’m currently a student of Faridpur Polytechnic Institute (Computer Science & Technology) 
 - 🌱 I’m currently learning Next Js (Frontend Web Framework) 
 - 💬 Ask me about Web Development
-- 📫 mdsiamislam663@gmail.com 
+- 📄 Know about my experiences https://drive.google.com/file/d/1RXTmvXb-UDKtlrEKhkUHsL4hH1q5GNkk/view?usp=sharing
+- 👨‍💻 All of my projects are available at https://personal-portfolio-bay-eta.vercel.app
+- 📫 How to reach me mdsiamislam663@gmail.com
 - 😄 Ask me about creating dynamic web apps, frontend trends, or bridging frontend 
 - ⚡ I’m a self-taught developer who started coding as a hobby and turned it into a passion!
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/md-siam-ali-219926345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-siam-ali-219926345/" height="30" width="40" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-siam-islam&label=Profile%20views&color=0e75b6&style=flat" alt="md-siam-islam" /> </p>
 
