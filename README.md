@@ -2,15 +2,23 @@
 ![Frontend Developer](https://hub.asimov.academy/wp-content/uploads/2024/10/hello-world.webp)
 
   <h1 align="center">Hi there 👋 I'm Md Siam Islam</h1>
+  
   <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on I’m currently a student of Faridpur Polytechnic Institute (Computer Science & Technology) 
-- 🌱 I’m currently learning Next Js (Frontend Web Framework) 
+- 🔭 I’m currently working on I’m currently a student of Faridpur Polytechnic Institute (Computer Science & Technology)
+  
+- 🌱 I’m currently learning Next Js (Frontend Web Framework)
+  
 - 💬 Ask me about Web Development
+  
 - 📄 Know about my experiences https://drive.google.com/file/d/1RXTmvXb-UDKtlrEKhkUHsL4hH1q5GNkk/view?usp=sharing
+  
 - 👨‍💻 All of my projects are available at https://personal-portfolio-bay-eta.vercel.app
+  
 - 📫 How to reach me mdsiamislam663@gmail.com
-- 😄 Ask me about creating dynamic web apps, frontend trends, or bridging frontend 
+  
+- 😄 Ask me about creating dynamic web apps, frontend trends, or bridging frontend
+  
 - ⚡ I’m a self-taught developer who started coding as a hobby and turned it into a passion!
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
